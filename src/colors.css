@@ -1,0 +1,26 @@
+:root {
+  /* //? backgrounds */
+  --bg-primary: #bbbbbb;
+  --bg-secondary: #ebebeb;
+
+  /* //? texts */
+  --text-primary: #000;
+  --text-secondary: rgb(60, 60, 60);
+
+  /* //? global colors */
+  --primary: #ffa;
+}
+
+/* dark theme colors */
+[data-theme='dark'] {
+  /* //? backgrounds */
+  --bg-primary: #000;
+  --bg-secondary: rgb(60, 60, 60);
+
+  /* //? texts */
+  --text-primary: #fff;
+  --text-secondary: #ebebeb;
+
+  /* //? global colors */
+  --primary: #00a;
+}

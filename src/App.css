@@ -1,0 +1,13 @@
+:root {
+  /* //? font families */
+  --font-regular: monospace;
+
+  /* //? font sizes */
+  --text-default: 1rem;
+
+  /* //? paddings */
+  --padding-default: 3rem;
+
+  /* //? margins */
+  --margins-default: 6rem;
+}
